@@ -53,7 +53,7 @@ function AddBook(props) {
 					{displayAuthors()}
 				</select>
 			</div>
-			<button>Add Book</button>
+			<button>+</button>
 		</form>
 	);
 }
